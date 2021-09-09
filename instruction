@@ -1,0 +1,7 @@
+# 将地址进行 base64 编码
+http://tools.jb51.net/tools/base64_decode-gb2312.php
+
+# 将编码后的值 更新在readme.md 文件中
+
+# 获取 readme.md 地址，即为 DY 地址
+https://raw.githubusercontent.com/MarkTina/V2run/main/README.md
